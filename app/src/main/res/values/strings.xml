@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">coopsbetterconcerts</string>
+    <string name="coop_s_concerts">Coop\'s Concerts</string>
+    <string name="second_screen_info">Upcoming Events:</string>
+    <string name="rock_star">Rock Star</string>
+    <string name="pop_artist">Pop Artist</string>
+    <string name="famous_rapper">Famous Rapper</string>
+    <string name="eighties_final_tour">80s Band Last Tour</string>
+    <string name="rock_star_price">$45</string>
+    <string name="pop_artist_price">$50</string>
+    <string name="famous_rapper_price">$150</string>
+    <string name="eighties_final_tour_price">$325</string>
+    <string name="rock_star_date">5.20.2020</string>
+    <string name="pop_artist_date">5.12.2020</string>
+    <string name="famous_rapper_date">5.10.2020</string>
+    <string name="eighties_final_tour_date">5.15.2020</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

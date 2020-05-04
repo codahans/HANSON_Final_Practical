@@ -1,0 +1,2 @@
+rootProject.name='coopsbetterconcerts'
+include ':app'
